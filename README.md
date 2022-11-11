@@ -1,14 +1,15 @@
-# project_10612
+# PROJECT_10612
+> # *This is a webpage creation project*
+![](bg.jpg)
 
-this is a webpage creation project
+## Creator of the project: `@Arunkumar-60`
 
-creator of the project:
-@Arunkumar-60
+## Languages used so far in this project:
+- ## HTML
+- ## CSS
 
-languages used so far in this project:
-HTML
-CSS
+## Technologies used so far in this project:
 
-technologies used so far in this project:
+## Installation:
 
-contributors:
+## Contributors:
