@@ -13,7 +13,7 @@
 
 ## Technologies used so far in this project:
 
-- # font awesome
+- ### font awesome
 
 ## Installation:
 
