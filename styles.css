@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 35px;
+    color: Gray;
+    padding: 15px;
+}
+
+.header {
+    background-color: rgb(14, 14, 14);
+    margin-bottom: 0px;
+    height: 150px;
+}
+
+.navbar {
+    padding-top: 0px;
+    background-color: rgb(12, 12, 12);
+}
