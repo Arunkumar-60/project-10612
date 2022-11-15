@@ -17,4 +17,8 @@
 
 ## Installation:
 
-## Contributors: `@Nguyen Thi My Khanh`
+1. fork the repository.
+2. To run tests, install [Visual Studio Code](https://code.visualstudio.com/Download) on your local device.
+3. Install and Setup [Git](https://git-scm.com/download/win) and [GitHub](https://github.com/) on your local device and remotely.
+
+## Contributors: `@Nguyen Thi My Khanh` `@https://github.com/nguyenhieunghia070101`
