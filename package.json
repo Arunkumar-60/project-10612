@@ -1,0 +1,22 @@
+{
+  "name": "project-10612",
+  "version": "1.0.0",
+  "description": "my first website",
+  "main": "srcipts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunkumar-60/project-10612.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunkumar-60/project-10612/issues"
+  },
+  "homepage": "https://github.com/Arunkumar-60/project-10612#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
